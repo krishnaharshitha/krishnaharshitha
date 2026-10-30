@@ -85,10 +85,10 @@ I'm a **B.Tech Computer Science & Engineering student** and **Full-Stack Develop
 
 <p align="center">
   <a href="https://github.com/krishnaharshitha">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=krishnaharshitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=krishnaharshitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/krishnaharshitha">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaharshitha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishnaharshitha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -104,7 +104,7 @@ I'm a **B.Tech Computer Science & Engineering student** and **Full-Stack Develop
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishnaharshitha&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=krishnaharshitha&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
